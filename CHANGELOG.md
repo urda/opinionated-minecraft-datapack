@@ -1,6 +1,6 @@
 # v0.1
 
-- The "new" UrdaCraft Vanilla Tweaks Datapack
+- The "new" UrdaCraft Vanilla Tweaks Datapack.
 - Removed the ability to craft a totem.
 - Removed the ability to craft various horse armors.
 - Removed advancements related to horse armors.
