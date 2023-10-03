@@ -1,14 +1,14 @@
 {
   "__comment": "UrdaCraft - By Urda of urda.com",
-  "parent": "urdacraft:fuck_gravel",
+  "parent": "urdacraft:damn_gravel",
   "display": {
     "title": {
-      "text": "... and fuck you too!",
+      "text": "... and damn coarse dirt!",
       "color": "aqua",
       "obfuscated": false
     },
     "description": {
-      "text": "Fuck. Coarse Dirt.",
+      "text": "Damn. Coarse Dirt.",
       "color": "green"
     },
     "icon": {

@@ -6,6 +6,7 @@
 - Removed advancements related to horse armors.
 - Removed advancements related to totem.
 - Adjusted various comment and string values used throughout the data pack.
+- Adjusted wording to be more PG-like on some advancements.
 
 # v0.04 and prior
 

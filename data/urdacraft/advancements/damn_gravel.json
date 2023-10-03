@@ -3,12 +3,12 @@
   "parent": "urdacraft:root",
   "display": {
     "title": {
-      "text": "Dude FUCK Gravel",
+      "text": "Damn Gravel",
       "color": "aqua",
       "obfuscated": false
     },
     "description": {
-      "text": "Fuck. Gravel.",
+      "text": "Damn. Gravel.",
       "color": "green"
     },
     "icon": {
