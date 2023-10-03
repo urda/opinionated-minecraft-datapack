@@ -5,6 +5,7 @@
 - Removed the ability to craft various horse armors.
 - Removed advancements related to horse armors.
 - Removed advancements related to totem.
+- Adjusted various comment and string values used throughout the data pack.
 
 # v0.04 and prior
 

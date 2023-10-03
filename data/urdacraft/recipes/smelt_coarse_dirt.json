@@ -1,4 +1,5 @@
 {
+    "__comment": "UrdaCraft - By Urda of urda.com",
     "type": "minecraft:smelting",
     "ingredient": {
         "item": "minecraft:coarse_dirt"
