@@ -7,6 +7,7 @@
 - Removed advancements related to totem.
 - Adjusted various comment and string values used throughout the data pack.
 - Adjusted wording to be more PG-like on some advancements.
+- Tweaked `README` file.
 
 # v0.04 and prior
 
