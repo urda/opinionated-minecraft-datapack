@@ -1,0 +1,34 @@
+{
+  "__comment": "Created by Urda for minecraft.urda.com",
+  "parent": "urdacraft:root",
+  "display": {
+    "title": {
+      "text": "I'm just going to wing it!",
+      "color": "aqua",
+      "obfuscated": false
+    },
+    "description": {
+      "text": "Before you can fly you have to earn your wings.",
+      "color": "green"
+    },
+    "icon": {
+      "item": "minecraft:elytra"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "has_elytra": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:elytra"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "__comment": "Created by Urda for minecraft.urda.com",
+  "type": "crafting_shaped",
+  "pattern": [
+    "FBF",
+    "SFS",
+    "F F"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:redstone_block"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:elytra",
+    "count": 1
+  }
+}

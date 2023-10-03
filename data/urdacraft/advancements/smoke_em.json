@@ -1,0 +1,39 @@
+{
+  "__comment": "Created by Urda for minecraft.urda.com",
+  "parent": "urdacraft:root",
+  "display": {
+    "title": {
+      "text": "Smoke 'Em If You Got 'Em",
+      "color": "aqua",
+      "obfuscated": false
+    },
+    "description": {
+      "text": "BEHOLD! Rotten flesh made useful!",
+      "color": "green"
+    },
+    "icon": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "rewards": {
+    "recipes": [
+      "urdacraft:cleansed_rotten_flesh"
+    ]
+  },
+  "criteria": {
+    "has_rotten_flesh": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:rotten_flesh"
+          }
+        ]
+      }
+    }
+  }
+}

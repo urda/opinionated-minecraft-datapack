@@ -1,0 +1,49 @@
+{
+  "__comment": "Created by Urda for minecraft.urda.com",
+  "display": {
+    "title": {
+      "text": "UrdaCraft",
+      "color": "aqua"
+    },
+    "description": {
+      "text": "Enter a world of crafting with urda.minecraft.com and Urda."
+    },
+    "icon": {
+      "item": "minecraft:crafting_table"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+  },
+  "rewards": {
+    "recipes": [
+      "urdacraft:elytra"
+    ]
+  },
+  "criteria": {
+    "has_crafting_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:crafting_table"
+      }
+    },
+    "has_crafting_table": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:crafting_table"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_crafting_table",
+      "has_crafting_recipe"
+    ]
+  ]
+}
