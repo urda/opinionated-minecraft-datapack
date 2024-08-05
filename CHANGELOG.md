@@ -1,9 +1,9 @@
 # v0.1 - Pre-Release
 
-- The "new" OpinionatedMinecraftDatapack Vanilla Tweaks Datapack.
+- The "new" OpinionatedMinecraftDatapack Vanilla Tweaks Data Pack.
 - Features:
   - Advancements:
-    - "Opinionated Minecraft Datapack"
+    - "Opinionated Minecraft Data Pack"
       - "Damn. Gravel."
         - "Damn. Coarse Dirt."
       - "I'm just going to wing it!"

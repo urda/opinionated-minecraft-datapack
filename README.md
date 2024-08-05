@@ -3,7 +3,7 @@
 **OpinionatedMinecraftDatapack** is an opinionated [Minecraft data pack](https://minecraft.wiki/w/Data_pack).
 Anyone who knows anything about Urda will know how much they love simple, vanilla Minecraft.
 
-# Build the release
+# Building the data pack...
 
 ## Generic `zip` command
 
@@ -26,7 +26,7 @@ mv OpinionatedMinecraftDatapack.zip ~/Library/Application\ Support/minecraft/sav
 Place the built data pack into the server's `datapacks` folder:
 
 ```bash
-rsync OpinionatedMinecraftDatapack.zip host.local:/path/to/server/datapacks/OpinionatedMinecraftDatapack.zip
+rsync OpinionatedMinecraftDatapack.zip host.tld:/path/to/server/datapacks/OpinionatedMinecraftDatapack.zip
 ```
 
 # Credits and References
