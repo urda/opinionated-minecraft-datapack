@@ -3,13 +3,13 @@
   "parent": "opinionatedminecraftdatapack:root",
   "display": {
     "title": {
-      "text": "Damn Gravel",
-      "color": "aqua",
+      "text": "Damn. Gravel.",
+      "color": "white",
       "obfuscated": false
     },
     "description": {
-      "text": "Damn. Gravel.",
-      "color": "green"
+      "text": "Damn you got some gravel ...",
+      "color": "red"
     },
     "icon": {
       "id": "minecraft:gravel"

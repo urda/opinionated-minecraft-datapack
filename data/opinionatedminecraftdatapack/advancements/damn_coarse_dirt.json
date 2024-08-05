@@ -3,13 +3,13 @@
   "parent": "opinionatedminecraftdatapack:damn_gravel",
   "display": {
     "title": {
-      "text": "... and damn coarse dirt!",
-      "color": "aqua",
+      "text": "Damn. Coarse Dirt.",
+      "color": "white",
       "obfuscated": false
     },
     "description": {
-      "text": "Damn. Coarse Dirt.",
-      "color": "green"
+      "text": "... and some coarse dirt!",
+      "color": "red"
     },
     "icon": {
       "id": "minecraft:coarse_dirt"

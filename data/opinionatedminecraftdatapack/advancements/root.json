@@ -6,7 +6,8 @@
       "color": "aqua"
     },
     "description": {
-      "text": "Enter a world of crafting with and Urda and Urda.com"
+      "text": "Enter a world of crafting with Urda and Urda.com",
+      "color": "white"
     },
     "icon": {
       "id": "minecraft:crafting_table"
