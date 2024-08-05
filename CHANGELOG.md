@@ -1,13 +1,14 @@
-# v0.1
+# v0.1 - Pre-Release
 
 - The "new" OpinionatedMinecraftDatapack Vanilla Tweaks Datapack.
 - Features:
   - Advancements:
-    - "Enter a world of crafting with and Urda and Urda.com"
-    - "Damn Gravel"
-      - "... and damn coarse dirt!"
-    - "I'm just going to wing it!"
-    - "Smoke 'Em If You Got 'Em"
+    - "Opinionated Minecraft Datapack"
+      - "Damn. Gravel."
+        - "Damn. Coarse Dirt."
+      - "I'm just going to wing it!"
+      - "Smoke 'Em If You Got 'Em"
+      - "Splitting the Melon"
   - Recipes:
     - "Cleanse Rotten Flesh" - Nobody likes rotten flesh, with this you can smelt it into leather.
     - "Craft Elytra" - Build an elytra as you please! Requires "redstone block", "feather", "stick".
