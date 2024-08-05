@@ -1,6 +1,7 @@
 {
   "__comment": "OpinionatedMinecraftDatapack - By Urda of Urda.com",
   "type": "minecraft:smelting",
+  "category": "misc",
   "ingredient": {
     "item": "minecraft:gravel"
   },

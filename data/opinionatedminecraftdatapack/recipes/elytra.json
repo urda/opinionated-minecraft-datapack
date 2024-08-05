@@ -1,6 +1,7 @@
 {
   "__comment": "OpinionatedMinecraftDatapack - By Urda of Urda.com",
   "type": "crafting_shaped",
+  "category": "equipment",
   "pattern": [
     "FBF",
     "SFS",
