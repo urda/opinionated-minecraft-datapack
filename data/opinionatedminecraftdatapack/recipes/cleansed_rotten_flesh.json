@@ -1,10 +1,12 @@
 {
-    "__comment": "OpinionatedMinecraftDatapack - By Urda of Urda.com",
-    "type": "minecraft:smelting",
-    "ingredient": {
-        "item": "minecraft:rotten_flesh"
-    },
-    "result": "minecraft:leather",
-    "experience": 0.1,
-    "cookingtime": 600
+  "__comment": "OpinionatedMinecraftDatapack - By Urda of Urda.com",
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:rotten_flesh"
+  },
+  "result": {
+    "id": "minecraft:leather"
+  },
+  "experience": 0.1,
+  "cookingtime": 600
 }
