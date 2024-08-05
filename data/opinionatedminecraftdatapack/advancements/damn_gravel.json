@@ -12,7 +12,7 @@
       "color": "green"
     },
     "icon": {
-      "item": "minecraft:gravel"
+      "id": "minecraft:gravel"
     },
     "frame": "task",
     "show_toast": true,
@@ -30,7 +30,12 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:gravel"
+            "items": [
+              "minecraft:gravel"
+            ],
+            "count": {
+              "min": 1
+            }
           }
         ]
       }

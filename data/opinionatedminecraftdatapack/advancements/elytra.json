@@ -12,7 +12,7 @@
       "color": "green"
     },
     "icon": {
-      "item": "minecraft:elytra"
+      "id": "minecraft:elytra"
     },
     "frame": "goal",
     "show_toast": true,
@@ -25,7 +25,12 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:elytra"
+            "items": [
+              "minecraft:elytra"
+            ],
+            "count": {
+              "min": 1
+            }
           }
         ]
       }

@@ -12,7 +12,7 @@
       "color": "green"
     },
     "icon": {
-      "item": "minecraft:coarse_dirt"
+      "id": "minecraft:coarse_dirt"
     },
     "frame": "task",
     "show_toast": true,
@@ -30,7 +30,12 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:coarse_dirt"
+            "items": [
+              "minecraft:coarse_dirt"
+            ],
+            "count": {
+              "min": 1
+            }
           }
         ]
       }
