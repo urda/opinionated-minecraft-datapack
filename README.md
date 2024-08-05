@@ -15,7 +15,11 @@ zip -r OpinionatedMinecraftDatapack.zip . -x ".*" -x "__MACOSX" -x "*.DS_Store"
 
 ## Local Save
 
-TBD
+### ... on macOS
+
+```
+mv OpinionatedMinecraftDatapack.zip ~/Library/Application\ Support/minecraft/saves/{WORLD NAME}/datapacks/
+```
 
 ## Multiplayer Server
 
