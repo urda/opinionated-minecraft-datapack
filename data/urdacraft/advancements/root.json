@@ -1,8 +1,8 @@
 {
-  "__comment": "UrdaCraft - By Urda of urda.com",
+  "__comment": "OpinionatedMinecraftDatapack - By Urda of urda.com",
   "display": {
     "title": {
-      "text": "UrdaCraft",
+      "text": "OpinionatedMinecraftDatapack",
       "color": "aqua"
     },
     "description": {
@@ -19,7 +19,7 @@
   },
   "rewards": {
     "recipes": [
-      "urdacraft:elytra"
+      "opinionatedminecraftdatapack:elytra"
     ]
   },
   "criteria": {

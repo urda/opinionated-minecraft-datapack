@@ -1,6 +1,6 @@
 {
-  "__comment": "UrdaCraft - By Urda of urda.com",
-  "parent": "urdacraft:damn_gravel",
+  "__comment": "OpinionatedMinecraftDatapack - By Urda of urda.com",
+  "parent": "opinionatedminecraftdatapack:damn_gravel",
   "display": {
     "title": {
       "text": "... and damn coarse dirt!",
@@ -21,7 +21,7 @@
   },
   "rewards": {
     "recipes": [
-      "urdacraft:smelt_coarse_dirt"
+      "opinionatedminecraftdatapack:smelt_coarse_dirt"
     ]
   },
   "criteria": {

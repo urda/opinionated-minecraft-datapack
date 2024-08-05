@@ -1,6 +1,6 @@
 {
-  "__comment": "UrdaCraft - By Urda of urda.com",
-  "parent": "urdacraft:root",
+  "__comment": "OpinionatedMinecraftDatapack - By Urda of urda.com",
+  "parent": "opinionatedminecraftdatapack:root",
   "display": {
     "title": {
       "text": "Damn Gravel",
@@ -21,7 +21,7 @@
   },
   "rewards": {
     "recipes": [
-      "urdacraft:smelt_gravel"
+      "opinionatedminecraftdatapack:smelt_gravel"
     ]
   },
   "criteria": {

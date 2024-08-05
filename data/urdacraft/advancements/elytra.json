@@ -1,6 +1,6 @@
 {
-  "__comment": "UrdaCraft - By Urda of urda.com",
-  "parent": "urdacraft:root",
+  "__comment": "OpinionatedMinecraftDatapack - By Urda of urda.com",
+  "parent": "opinionatedminecraftdatapack:root",
   "display": {
     "title": {
       "text": "I'm just going to wing it!",

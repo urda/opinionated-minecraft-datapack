@@ -1,6 +1,6 @@
 {
-  "__comment": "UrdaCraft - By Urda of urda.com",
-  "parent": "urdacraft:root",
+  "__comment": "OpinionatedMinecraftDatapack - By Urda of urda.com",
+  "parent": "opinionatedminecraftdatapack:root",
   "display": {
     "title": {
       "text": "Smoke 'Em If You Got 'Em",
@@ -21,7 +21,7 @@
   },
   "rewards": {
     "recipes": [
-      "urdacraft:cleansed_rotten_flesh"
+      "opinionatedminecraftdatapack:cleansed_rotten_flesh"
     ]
   },
   "criteria": {
