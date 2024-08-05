@@ -1,12 +1,12 @@
 {
-  "__comment": "OpinionatedMinecraftDatapack - By Urda of urda.com",
+  "__comment": "OpinionatedMinecraftDatapack - By Urda of Urda.com",
   "display": {
     "title": {
       "text": "OpinionatedMinecraftDatapack",
       "color": "aqua"
     },
     "description": {
-      "text": "Enter a world of crafting with urda.minecraft.com and Urda."
+      "text": "Enter a world of crafting with and Urda and Urda.com"
     },
     "icon": {
       "item": "minecraft:crafting_table"
