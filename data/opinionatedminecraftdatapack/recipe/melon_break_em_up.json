@@ -1,9 +1,9 @@
 {
   "__comment": "OpinionatedMinecraftDatapack - By Urda of Urda.com",
-  "type": "crafting_shapeless",
+  "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    { "item": "minecraft:melon" }
+    "minecraft:melon"
   ],
   "result": {
     "id": "minecraft:melon_slice",

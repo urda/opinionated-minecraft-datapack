@@ -1,6 +1,6 @@
 {
   "__comment": "OpinionatedMinecraftDatapack - By Urda of Urda.com",
-  "type": "crafting_shaped",
+  "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "pattern": [
     "FBF",
@@ -8,15 +8,9 @@
     "F F"
   ],
   "key": {
-    "B": {
-      "item": "minecraft:redstone_block"
-    },
-    "F": {
-      "item": "minecraft:feather"
-    },
-    "S": {
-      "item": "minecraft:stick"
-    }
+    "B": "minecraft:redstone_block",
+    "F": "minecraft:feather",
+    "S": "minecraft:stick"
   },
   "result": {
     "id": "minecraft:elytra",

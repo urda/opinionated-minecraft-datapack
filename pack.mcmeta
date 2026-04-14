@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 41,
-    "description": "Opinionated Minecraft Data Pack :: By Urda :: Urda.com :: v0.1"
+    "description": "Opinionated Minecraft Data Pack v0.2 :: Urda.com",
+    "min_format": [101, 1],
+    "max_format": [101, 1]
   }
 }

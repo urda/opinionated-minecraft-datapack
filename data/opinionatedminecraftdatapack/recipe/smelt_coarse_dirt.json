@@ -2,9 +2,7 @@
   "__comment": "OpinionatedMinecraftDatapack - By Urda of Urda.com",
   "type": "minecraft:smelting",
   "category": "misc",
-  "ingredient": {
-    "item": "minecraft:coarse_dirt"
-  },
+  "ingredient": "minecraft:coarse_dirt",
   "result": {
     "id": "minecraft:dirt"
   },

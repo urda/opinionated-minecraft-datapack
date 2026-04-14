@@ -4,8 +4,7 @@
   "display": {
     "title": {
       "text": "Damn. Coarse Dirt.",
-      "color": "white",
-      "obfuscated": false
+      "color": "white"
     },
     "description": {
       "text": "... and some coarse dirt!",

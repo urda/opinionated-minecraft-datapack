@@ -3,30 +3,34 @@
   "parent": "opinionatedminecraftdatapack:root",
   "display": {
     "title": {
-      "text": "I'm just going to wing it!",
-      "color": "aqua",
-      "obfuscated": false
+      "text": "Smoke 'Em If You Got 'Em",
+      "color": "aqua"
     },
     "description": {
-      "text": "Before you can fly you have to earn your wings by buidling the Elytra.",
+      "text": "BEHOLD! Rotten flesh made useful!",
       "color": "green"
     },
     "icon": {
-      "id": "minecraft:elytra"
+      "id": "minecraft:rotten_flesh"
     },
-    "frame": "goal",
+    "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": true
   },
+  "rewards": {
+    "recipes": [
+      "opinionatedminecraftdatapack:cleansed_rotten_flesh"
+    ]
+  },
   "criteria": {
-    "has_elytra": {
+    "has_rotten_flesh": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "items": [
-              "minecraft:elytra"
+              "minecraft:rotten_flesh"
             ],
             "count": {
               "min": 1

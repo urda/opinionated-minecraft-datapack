@@ -1,37 +1,31 @@
 {
   "__comment": "OpinionatedMinecraftDatapack - By Urda of Urda.com",
-  "parent": "opinionatedminecraftdatapack:root",
   "display": {
     "title": {
-      "text": "Smoke 'Em If You Got 'Em",
-      "color": "aqua",
-      "obfuscated": false
+      "text": "Opinionated Minecraft Data Pack",
+      "color": "blue"
     },
     "description": {
-      "text": "BEHOLD! Rotten flesh made useful!",
-      "color": "green"
+      "text": "Enter a world of crafting with Urda and Urda.com",
+      "color": "white"
     },
     "icon": {
-      "id": "minecraft:rotten_flesh"
+      "id": "minecraft:crafting_table"
     },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
-    "hidden": true
-  },
-  "rewards": {
-    "recipes": [
-      "opinionatedminecraftdatapack:cleansed_rotten_flesh"
-    ]
+    "hidden": false,
+    "background": "minecraft:gui/advancements/backgrounds/stone"
   },
   "criteria": {
-    "has_rotten_flesh": {
+    "has_crafting_table": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "items": [
-              "minecraft:rotten_flesh"
+              "minecraft:crafting_table"
             ],
             "count": {
               "min": 1

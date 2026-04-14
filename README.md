@@ -5,10 +5,8 @@ Anyone who knows anything about Urda will know how much they love simple, vanill
 
 # Building the data pack...
 
-## Generic `zip` command
-
 ```bash
-zip -r OpinionatedMinecraftDatapack.zip . -x ".*" -x "__MACOSX" -x "*.DS_Store" -x "LICENSE" -x "CHANGELOG.md" -x "README.md"
+make build
 ```
 
 # Installing the data pack to a ...

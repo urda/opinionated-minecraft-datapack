@@ -2,12 +2,10 @@
   "__comment": "OpinionatedMinecraftDatapack - By Urda of Urda.com",
   "type": "minecraft:smelting",
   "category": "misc",
-  "ingredient": {
-    "item": "minecraft:gravel"
-  },
+  "ingredient": "minecraft:rotten_flesh",
   "result": {
-    "id": "minecraft:stone"
+    "id": "minecraft:leather"
   },
   "experience": 0.1,
-  "cookingtime": 200
+  "cookingtime": 600
 }

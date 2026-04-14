@@ -4,8 +4,7 @@
   "display": {
     "title": {
       "text": "Damn. Gravel.",
-      "color": "white",
-      "obfuscated": false
+      "color": "white"
     },
     "description": {
       "text": "Damn you got some gravel ...",
