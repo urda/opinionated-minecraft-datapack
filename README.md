@@ -3,6 +3,20 @@
 **OpinionatedMinecraftDatapack** is an opinionated [Minecraft data pack](https://minecraft.wiki/w/Data_pack).
 Anyone who knows anything about Urda will know how much they love simple, vanilla Minecraft.
 
+Supports Minecraft: Java Edition 26.3. Manual singleplayer tests verified all five recipes and all six advancements.
+
+## What This Data Pack Adds
+
+This data pack makes Minecraft: Java Edition work the way I prefer.
+
+- Get an Elytra earlier in survival play.
+- Turn rotten flesh into leather.
+- Turn gravel into stone.
+- Turn coarse dirt into dirt.
+- Split melon blocks back into slices.
+
+A custom advancement tab guides players toward each recipe.
+
 # Building the data pack...
 
 ```bash

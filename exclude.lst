@@ -3,6 +3,6 @@
 __MACOSX
 CHANGELOG.md
 exclude.lst
-LICENSE
 Makefile
 README.md
+resources/*

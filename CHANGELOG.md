@@ -1,6 +1,15 @@
 # CHANGELOG
 
-## v0.2 - Pre-Release
+## v0.2.1 - Pre-Release
+
+- Raised the minimum Minecraft version to 26.3 and set both data pack format bounds to `[121, 0]`.
+- Verified pack loading, all five recipe outputs, and all six advancements through manual singleplayer tests on Minecraft 26.3.
+- Updated the README with a concise summary of the data pack features.
+- Added a pack icon and excluded its source images from release archives.
+- Included the Apache 2.0 license in release archives.
+- Made no recipe or gameplay changes.
+
+## v0.2.0 - Pre-Release
 
 - Updated `pack.mcmeta` to new `min_format`/`max_format` array format for Minecraft 26.1.2 (pack format `[101, 1]`).
 - Renamed `advancements/` to `advancement/` and `recipes/` to `recipe/` per Minecraft 1.21 directory naming conventions.
@@ -17,7 +26,7 @@
 - Changed root advancement title color from `aqua` to `blue` for readability on stone background.
 - Verified full end-to-end testing on Minecraft 26.1.2.
 
-## v0.1 - Pre-Release
+## v0.1.0 - Pre-Release
 
 - The "new" OpinionatedMinecraftDatapack Vanilla Tweaks Data Pack.
 - Features:
