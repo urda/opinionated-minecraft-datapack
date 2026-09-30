@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## v1.0.0 - Initial Release
+
+- TBD
+
 ## v0.2.1 - Pre-Release
 
 - Raised the minimum Minecraft version to 26.3 and set both data pack format bounds to `[121, 0]`.
